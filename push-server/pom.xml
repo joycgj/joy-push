@@ -36,7 +36,7 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!---------------------- baev3-sdk dependencies start ---------------------->
+		<!-- baev3-sdk dependencies start -->
 		<dependency>
 			<groupId>net.sf.json-lib</groupId>
 			<artifactId>json-lib</artifactId>
@@ -79,9 +79,9 @@
 			<version>1.4</version>
 			<type>jar</type>
 		</dependency>
-		<!---------------------- baev3-sdk dependencies end ---------------------->
+		<!-- baev3-sdk dependencies end -->
 
-		<!---------------------- jetty dependencies start ------------------------>
+		<!-- jetty dependencies start -->
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-server</artifactId>
@@ -111,9 +111,9 @@
 			<artifactId>jetty-jsp</artifactId>
 			<version>${jetty.version}</version>
 		</dependency>
-		<!---------------------- jetty dependencies end ------------------------->
+		<!-- jetty dependencies end -->
 
-		<!---------------------- spring dependencies start ---------------------->
+		<!-- spring dependencies start -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-aop</artifactId>
@@ -159,7 +159,7 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
-		<!---------------------- spring dependencies end ---------------------->
+		<!-- spring dependencies end -->
 
 	</dependencies>
 </project>
