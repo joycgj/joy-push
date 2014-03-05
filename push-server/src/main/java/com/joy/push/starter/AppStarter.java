@@ -1,4 +1,4 @@
-package com.joy.starter;
+package com.joy.push.starter;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.util.resource.ResourceCollection;
